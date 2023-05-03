@@ -1,6 +1,6 @@
 #Criação da classe Grafo
 class Graph:
-    def __init__(self, adjacency_matrix, adjacency_list):
+    def __init__(self, adjacency_matrix=None, adjacency_list=None):
         self.adjacency_matrix = adjacency_matrix
         self.adjacency_list = adjacency_list
     

@@ -12,6 +12,12 @@
 
     Algoritmos de Busca: Implementação de algoritmos de busca em grafos, incluindo busca em largura, busca em profundidade.
 
+### Pasta "Karger_algoritmo"
+
+    Algoritmo de Karger: Implementação do algorítmo de Karger para a determinação de um corte mínimo em um grafo simples não direcionado.
+    Além disso, existe uma implementação de um 'naive cut', ou seja, cortes ingênuos. No qual divide-se aleatoriamente o grafo em dois grupos de vértices e determina-se o corte dessa divisão. É feita uma análise empírica da probabilidade de encontrar o corte ótimo
+    entre o Krager e o Naive Cut.
+
 ## Requisitos
 
     Os códigos foram escritos em Python 3 e foram utilizadas as seguintes bibliotecas:
